@@ -25,3 +25,15 @@ File: `watson-nlu.json`
 }
 
 ```
+
+## Google Search
+
+File: `google-search.json`
+
+```
+{
+    "apiKey": "IzddaSA-cWaJpA3ddYUz35Kicl3FwcMRoss4X9QeI",
+    "searchEngineId": "01503434ds8851010:wh24sw9gcw"
+}
+
+```
