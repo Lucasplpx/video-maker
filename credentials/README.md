@@ -37,3 +37,16 @@ File: `google-search.json`
 }
 
 ```
+
+
+## Google YouTube
+
+File: `google-youtube.json`
+
+```
+{
+    "apiKey": "IzddaSA-cWaJpAw3ddYUz35Kicl3FwcMRoss4X9QeI",
+    "searchEngineId": "01503434ds8dd851010:wh24sw9gcw"
+}
+
+```
